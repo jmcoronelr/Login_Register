@@ -1,0 +1,38 @@
+* {
+    padding: 0%;
+    margin: 0%;
+}
+
+body {
+    background-image: url(../images/index.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center center;
+
+}
+
+main {
+    text-align: center;
+    margin: 200px;
+    padding: 200px;
+}
+
+button a {
+    text-decoration: none;
+    color: #344c22;
+    font-family: 'Oleo Script Swash Caps', cursive;
+    font-size: 20px;
+}
+
+button {
+    margin: 50px;
+    padding: 10px 20px;
+    border: 1px solid #344c22;
+    border-radius: 5px;
+    background-color: #bfcec8;
+}
+
+main :hover {
+    background-color: #c3dad0;
+}
