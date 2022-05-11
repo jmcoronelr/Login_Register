@@ -65,3 +65,9 @@ a {
 .button :hover {
     background-color: #e4e4e2;
 }
+
+hr {
+    margin: 1px;
+    border: 1px solid;
+    color: #cfcfa7;
+}
