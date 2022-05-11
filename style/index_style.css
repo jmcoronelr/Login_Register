@@ -27,7 +27,7 @@ button a {
 
 button {
     margin: 50px;
-    padding: 10px 20px;
+    width: 100px;
     border: 1px solid #344c22;
     border-radius: 5px;
     background-color: #bfcec8;
