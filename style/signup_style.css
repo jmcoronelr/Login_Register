@@ -36,6 +36,7 @@ label {
 input {
     padding: 8px;
     margin: 10px;
+    width: 180px;
     font-family: 'Titillium Web', sans-serif;
     border-radius: 5px;
     outline: none;
