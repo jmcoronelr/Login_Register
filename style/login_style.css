@@ -30,14 +30,12 @@ form {
 label {
     padding: 5px;
     margin: 5px;
-    margin-left: 20px;
     font-size: large;
 }
 
 input {
     padding: 8px;
     margin: 10px;
-    margin-left: 25px;
     font-family: 'Titillium Web', sans-serif;
     border-radius: 5px;
     outline: none;
@@ -72,6 +70,7 @@ a {
 
 .button {
     text-align: center;
+
 }
 
 .button :hover {
